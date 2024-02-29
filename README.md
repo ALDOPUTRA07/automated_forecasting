@@ -53,6 +53,10 @@ Your browser does not support the video tag.
 <p></p>
 
 
+https://github.com/ALDOPUTRA07/automated_forecasting/assets/123882693/0fd2954f-86ef-451f-b73b-e4e8aa147a4d
+
+
+
 ### Built With
 
 These are list any major frameworks/libraries used to make the project.
@@ -105,7 +109,7 @@ This model does not yet include seasonal ARIMA (SARIMA). In the future, we can i
 - **Monitoring**. For the next step, the project can monitor forecasting results. We can use evidently for tool monitoring. The monitoring includes data drift, target drift, etc.
 
 ## AI/ML Canvas
-Link AI/Canvas for this project. [LINK](https://github.com/ALDOPUTRA07/automated_forecasting/blob/master/static/AI_ML_Canvas_Automated_Forecasting.pdf)
+Link AI/Canvas for this project. [LINK](https://github.com/ALDOPUTRA07/automated_forecasting/blob/main/static/AI_ML%20Canvas%20Automated%20Forecasting.pdf)
 <p align="center">
   <img src = "static/AI_ML Canvas Automated Forecasting.png">
 </p>
