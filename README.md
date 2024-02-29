@@ -106,7 +106,7 @@ This model does not yet include seasonal ARIMA (SARIMA). In the future, we can i
 - **CI/CD**. The project uses the CI/CD concept with GitHub action.
 - **Testing**. Testing includes data, model, and code testing.
 - **Reproducibility**.
-- **Monitoring**. For the next step, the project can monitor forecasting results. We can use evidently for tool monitoring. The monitoring includes data drift, target drift, etc.
+- **Monitoring**. For the next step, the project can monitor forecasting results. We can use [evidentlyAI](https://www.evidentlyai.com/) for tool monitoring. The monitoring includes data drift, target drift, etc.
 
 ## AI/ML Canvas
 Link AI/Canvas for this project. [LINK](https://github.com/ALDOPUTRA07/automated_forecasting/blob/main/static/AI_ML%20Canvas%20Automated%20Forecasting.pdf)
