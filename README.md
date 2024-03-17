@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to carry out forecasting automatically by just entering data. The forecasting results will come out in a few seconds. The project uses one of the best forecasting algorithms, namely ARIMA.
+This project aims to carry out forecasting automatically by just entering data.The time series data can be any data such as the closing price of a stock, product sales weekly for a store, web traffic monthly, etc. The forecasting results will come out in a few seconds. The project uses one of the best forecasting algorithms, namely ARIMA.
 
 <video controls muted>
   <source src="static/Tutorial.mp4" type="video/mp4">
